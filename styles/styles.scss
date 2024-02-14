@@ -19,7 +19,7 @@ body {
     box-sizing: border-box;
 }
 header {
-    background: linear-gradient(180deg, #E8F5C8 0%, #FFFFFF 96.87%);
+    background: $gradiente-primario;
     padding: 2rem;
     nav {
         display: flex;
@@ -38,9 +38,9 @@ header {
             }
             a {
                 text-decoration: none;
-                color: rgba(12, 4, 33, 1);
+                color: $cor-primaria;
                 font-weight: 500;
-                font-family: 'Montserrat', sans-serif;
+                font-family: $ft-textos;
             }
         }
     }
