@@ -30,4 +30,12 @@ header nav ul a {
   color: #0C0421;
   font-weight: 500;
   font-family: "Montserrat", sans-serif;
+}
+header #home {
+  max-width: 1040px;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }/*# sourceMappingURL=styles.css.map */
