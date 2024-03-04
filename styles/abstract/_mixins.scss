@@ -3,3 +3,9 @@
     width: $width;
 
 }
+
+@mixin fonteFamily-fonteSize-color ($f-family, $f-size, $f-color) {
+    font-family: $f-family;
+    font-size: $f-size;
+    color: $f-color;
+}
