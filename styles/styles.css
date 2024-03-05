@@ -75,4 +75,17 @@ header #home .btn-main {
 #nosso-espaco {
   margin: 0 auto;
   width: 80%;
+}
+#nosso-espaco .detalhes {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+}
+#nosso-espaco .detalhes .imgs-espaco, #nosso-espaco .detalhes .espaco-textos {
+  max-width: 500px;
+}
+#nosso-espaco .detalhes .espaco-textos .separador {
+  width: 100%;
 }/*# sourceMappingURL=styles.css.map */
