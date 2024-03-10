@@ -182,4 +182,30 @@ header #home .btn-main:hover {
   background-color: #4e75ff;
   border-radius: 0 65px 65px 0;
   border: none;
+}
+
+#contatos {
+  padding-top: 3rem;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+}
+#contatos .contatos-imgs {
+  max-width: 50%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-around;
+}
+#contatos .contatos-imgs img {
+  width: 100%;
+}
+#contatos .contatos-imgs img:nth-child(n+2) {
+  max-width: 48%;
+}
+#contatos .contatos-form {
+  max-width: 50%;
 }/*# sourceMappingURL=styles.css.map */
