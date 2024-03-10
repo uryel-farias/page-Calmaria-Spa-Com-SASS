@@ -15,9 +15,9 @@
         @include mixins.fonteFamily-fonteSize-color(variaveis.$ft-textos, 1.2rem, variaveis.$cor-primaria);
     }
     .input-btn {
-        $largura-input: 790px;
+        $largura-input: 590px;
         width: $largura-input;
-        height: 65px;
+        height: 45px;
         border: 1px solid variaveis.$cor-secundaria;
         border-radius: 65px;
         margin: 0 auto;

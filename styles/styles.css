@@ -158,8 +158,8 @@ header #home .btn-main:hover {
   color: #0C0421;
 }
 #desconto .input-btn {
-  width: 790px;
-  height: 65px;
+  width: 590px;
+  height: 45px;
   border: 1px solid #4e75ff;
   border-radius: 65px;
   margin: 0 auto;
@@ -169,7 +169,7 @@ header #home .btn-main:hover {
   font-family: "Montserrat", sans-serif;
   font-size: 1.2rem;
   color: #0C0421;
-  width: 513.5px;
+  width: 383.5px;
   border: none;
   outline: none;
   margin-left: 2rem;
@@ -178,7 +178,7 @@ header #home .btn-main:hover {
   font-family: "Montserrat", sans-serif;
   font-size: 1.2rem;
   color: white;
-  width: 276.5px;
+  width: 206.5px;
   background-color: #4e75ff;
   border-radius: 0 65px 65px 0;
   border: none;
